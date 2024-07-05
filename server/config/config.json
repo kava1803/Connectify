@@ -2,7 +2,7 @@
   "development": {
     "username": "root",
     "password": "gunnu1",
-    "database": "Connectify111",
+    "database": "connectify111",
     "host": "127.0.0.1",
     "dialect": "mysql"
   },
